@@ -22,6 +22,7 @@ struct ContentView: View {
                 }
                 
                 Text("Rahaf Aldosary")
+                //me
                     .foregroundColor(.blue)
                     .font(.largeTitle)
                 Text("I love video games and i'm really excited to improve my programming skills and meet new friends 👓")
